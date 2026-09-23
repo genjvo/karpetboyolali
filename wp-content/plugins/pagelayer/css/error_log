@@ -1,0 +1,2 @@
+[17-Jul-2023 12:25:04 Asia/Jakarta] PHP Warning:  file_get_contents(/home/kary6255/public_html/wp-content/plugins/pagelayer/css/premium-frontend.css): failed to open stream: No such file or directory in /home/kary6255/public_html/wp-content/plugins/pagelayer/css/givecss.php on line 85
+[17-Jul-2023 12:25:04 Asia/Jakarta] PHP Warning:  file_get_contents(/home/kary6255/public_html/wp-content/plugins/pagelayer/css/chartist.min.css): failed to open stream: No such file or directory in /home/kary6255/public_html/wp-content/plugins/pagelayer/css/givecss.php on line 85
